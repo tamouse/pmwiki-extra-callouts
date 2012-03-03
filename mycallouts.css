@@ -1,0 +1,22 @@
+/*
+ * mycallout - styles for local callouts
+ *
+ * Author: Tamara Temple <tamara@tamaratemple.com>
+ * Created: 2011/11/01
+ * Time-stamp: <2011-11-15 04:06:57 tamara>
+ * Version:
+ * Copyright (c) 2011 Tamara Temple Web Development
+ * License: CC BY-NC-AT
+ */
+
+
+
+.quote {
+  padding-left: 100px;
+  font-style:italic;
+  border-style:solid;
+  border-width:1pt;
+  background-image: url(quote-2A2AFF.png);
+  background-position: top left;
+  background-repeat: no-repeat;
+}
