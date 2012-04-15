@@ -1,18 +1,16 @@
 /*
- * mycallout - styles for local callouts
+ * extracallouts.css - styles for local callouts
  *
  * Author: Tamara Temple <tamara@tamaratemple.com>
  * Created: 2011/11/01
- * Time-stamp: <2011-11-15 04:06:57 tamara>
- * Version:
+ * Time-stamp: <2012-04-15 13:32:05 tamara>
  * Copyright (c) 2011 Tamara Temple Web Development
- * License: CC BY-NC-AT
+ * License: GPLv3
  */
 
-
-
 .quote {
-  padding-left: 100px;
+  width:90%;
+  margin:5px auto;
   font-style:italic;
   border-style:solid;
   border-width:1pt;
