@@ -3,6 +3,7 @@ OBJECTS=cookbook/extracallouts cookbook/extracallouts.php cookbook/extracallouts
 INSTALL_DIR=../..
 
 dist: $(OBJECTS)
+	/bin/rm extracallouts.zip
 	zip -r extracallouts.zip cookbook/ pub/
 
 clean:
