@@ -3,7 +3,7 @@
  *
  * Author: Tamara Temple <tamara@tamaratemple.com>
  * Created: 2011/11/01
- * Time-stamp: <2012-04-15 13:32:05 tamara>
+ * Time-stamp: <2012-07-05 07:53:14 tamara>
  * Copyright (c) 2011 Tamara Temple Web Development
  * License: GPLv3
  */
@@ -15,6 +15,6 @@
   border-style:solid;
   border-width:1pt;
   background-image: url(quote-2A2AFF.png);
-  background-position: top left;
+  background-position: 10px 10px;
   background-repeat: no-repeat;
 }
