@@ -3,7 +3,7 @@
  *
  * Author: Tamara Temple <tamara@tamaratemple.com>
  * Created: 2011/11/01
- * Time-stamp: <2012-07-05 07:53:14 tamara>
+ * Time-stamp: <2012-07-05 08:03:38 tamara>
  * Copyright (c) 2011 Tamara Temple Web Development
  * License: GPLv3
  */
@@ -11,6 +11,7 @@
 .quote {
   width:90%;
   margin:5px auto;
+  padding-left: 80px;
   font-style:italic;
   border-style:solid;
   border-width:1pt;
