@@ -7,11 +7,11 @@ extracallouts extends the [callout recipe](http://www.pmwiki.org/wiki/Cookbook/C
 
 You can obtain the extracallouts recipe from the Git repository at:
 
-    http://git.gitorious.org/pmwikistuff/extracallouts.git
-  
+    https://github.com/tamouse/pmwiki-extra-callouts
+
 Create a (temporary) clone of the repository:
 
-    git clone http://git.gitorious.org/pmwikistuff/extracallouts.git
+    git clone https://github.com/tamouse/pmwiki-extra-callouts.git extracallouts
     cd extracallouts
     make dist
 
@@ -47,5 +47,4 @@ This recipe assumes you already have the callout recipe loaded.
 
 ## Author ##
 
-Tamara Temple <tamara@tamaratemple.com>
-
+Tamara Temple <tamouse@gmail.com>
